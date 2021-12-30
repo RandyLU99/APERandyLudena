@@ -32,6 +32,14 @@ En sí, todo el público en general serían los principales favorecidos del resu
 
 La solución al problema es sencilla, básicamente se busca realizar una página web para otorgar apoyo mediante imágenes, videos motivacionales, frases etc… aparte de esto, contar con un chat para que personas que se vean afectadas mediante este tipo de discriminación puedan comunicarse con personas que les pueden brindar apoyo para que su estado de animo se mejore, una de las principales causas en las que se puede combatir este tipo de discriminación es la comunicación, así que, lo que se intenta realizar con esta solución es eso, brindar respaldo a este tipo de personas que se ven afectadas. 
 
+## CONCLUSIONES
+
+En el momento que intentamos ayudar a otra persona en cualquier problema que esté atravesando, la persona afectada al ver que se le extiende la mano y se le brinda apoyo, esta se encuentra motivada y con menos estrés causado, con el simple hecho de escuchar sus problemas estas personas se sienten más seguras. La discriminación es un problema que está afectando a todo el mundo, lo mejor que podemos hacer para evitar esto es educarnos y generar conciencia nosotros mismos. Si vemos que una persona está siendo afectada por este tema o por cualquier otro, no hay que dudar en brindarle apoyo para que sepan que no están solos en esta lucha. Todas las personas somos iguales sin excepción alguna.
+
+## RECOMENDACIONES
+
+Al tratar con este tipo de discriminación, lo mejor es que personas apropiadas a estos tipos de asuntos, como psicólogos u otros que tengan que ver con esta rama, brinden el apoyo adecuado a estas personas que sufren discriminación, una persona normal puede brindar apoyo, pero al mi parecer este no es suficiente, luego de que “x” persona sea ayudada por una persona “normal”, lo ideal sería acudir con una persona adecuada para eliminar por completo los daños mentales causados por esto que está afectando a miles de personas, la discriminación. 
+
 ## REFERENCIAS 
 
 Wieviorka, M. (1998). Le racisme, une introduction. Obetenido de Plurales editores: https://books.google.es/books?hl=es&lr=&id=iWg3wxZ9POQC&oi=fnd&pg=PA7&dq=Racismo&ots=K4Yu2K-LnV&sig=q-jNpqBiP6mftgsP9Yqbs-l6sek#v=onepage&q&f=false
