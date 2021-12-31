@@ -40,6 +40,12 @@ En el momento que intentamos ayudar a otra persona en cualquier problema que est
 
 Al tratar con este tipo de discriminación, lo mejor es que personas apropiadas a estos tipos de asuntos, como psicólogos u otros que tengan que ver con esta rama, brinden el apoyo adecuado a estas personas que sufren discriminación, una persona normal puede brindar apoyo, pero al mi parecer este no es suficiente, luego de que “x” persona sea ayudada por una persona “normal”, lo ideal sería acudir con una persona adecuada para eliminar por completo los daños mentales causados por esto que está afectando a miles de personas, la discriminación. 
 
+## EXPERIENCIAS
+
+Como se nombró anteriormente, al no contar con los conocimientos suficientes no logré desarrollar una página web para solucionar este problema, pero mediante redes sociales (precisamente Facebook), brindé ayuda a personas que sufren este tipo de discriminación, al escuchar a estas personas hablar de sus problemas, estas me supieron manifestar que al contar a alguien más “liberan una carga”, además de esto, sienten apoyo y saben que no están solos en este tema de discriminación.
+Así como yo, hay miles de personas que luchan para que se termine el racismo, la idea de este proyecto era realizar una página web que constaba en frases motivadoras, videos, etc. pero lo más importante era implementar un chat para que estas personas puedan comunicarse y expresarse con alguien más, al ser un proyecto grande, no lo pude desarrollar, espero en un futuro poder cumplir algunas cosas que me plantee mediante la programación. 
+
+
 ## REFERENCIAS 
 
 Wieviorka, M. (1998). Le racisme, une introduction. Obetenido de Plurales editores: https://books.google.es/books?hl=es&lr=&id=iWg3wxZ9POQC&oi=fnd&pg=PA7&dq=Racismo&ots=K4Yu2K-LnV&sig=q-jNpqBiP6mftgsP9Yqbs-l6sek#v=onepage&q&f=false
